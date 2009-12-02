@@ -1,0 +1,96 @@
+
+
+ Unreal skeletal exporter for Maya - Model information for [fireman.psk] 
+
+ Skin faces:   9690
+ Skin vertices:   7906
+ Skin wedges (vertices with unique U,V):   9976
+ Total bone-to-vertex linkups:  11249
+ Reference bones:     70
+ Unique materials:      2
+
+ = materials =
+ * Index: [ 0]  name: lambert7SG  
+   Original bitmap: fireman_torso_1024.psd  Path: C:\Documents and Settings\michar\My Documents\Experimental Game Design\Firefighter_Fireman\textures
+    - Skin Index:  0
+   - render mode flags:
+ * Index: [ 1]  name: lambert8SG  
+   Original bitmap: fireman_head_1024.psd  Path: C:\Documents and Settings\michar\My Documents\Experimental Game Design\Firefighter_Fireman\textures
+    - Skin Index:  0
+   - render mode flags:
+ 
+
+ BONE LIST        [70] total bones in reference skeleton. 
+  number     name                           (parent) 
+  [  0 ]    [b_Root                         ]      (  0 ) 
+  [  1 ]    [b_Hips                         ]      (  0 ) 
+  [  2 ]    [b_Spine                        ]      (  1 ) 
+  [  3 ]    [b_Spine1                       ]      (  2 ) 
+  [  4 ]    [b_Spine2                       ]      (  3 ) 
+  [  5 ]    [b_Neck                         ]      (  4 ) 
+  [  6 ]    [b_Head                         ]      (  5 ) 
+  [  7 ]    [b_LeftClav                     ]      (  4 ) 
+  [  8 ]    [b_LeftArm                      ]      (  7 ) 
+  [  9 ]    [b_LeftArmRoll                  ]      (  8 ) 
+  [ 10 ]    [b_LeftForeArm                  ]      (  8 ) 
+  [ 11 ]    [b_LeftForeArmRoll              ]      ( 10 ) 
+  [ 12 ]    [b_LeftHand                     ]      ( 10 ) 
+  [ 13 ]    [b_LeftIndex1                   ]      ( 12 ) 
+  [ 14 ]    [b_LeftIndex2                   ]      ( 13 ) 
+  [ 15 ]    [b_LeftIndex3                   ]      ( 14 ) 
+  [ 16 ]    [b_LeftMiddle1                  ]      ( 12 ) 
+  [ 17 ]    [b_LeftMiddle2                  ]      ( 16 ) 
+  [ 18 ]    [b_LeftMilddle3                 ]      ( 17 ) 
+  [ 19 ]    [b_LeftPinky1                   ]      ( 12 ) 
+  [ 20 ]    [b_LeftPinky2                   ]      ( 19 ) 
+  [ 21 ]    [b_LeftPinky3                   ]      ( 20 ) 
+  [ 22 ]    [b_LeftRing1                    ]      ( 12 ) 
+  [ 23 ]    [b_LeftRing2                    ]      ( 22 ) 
+  [ 24 ]    [b_LeftRing3                    ]      ( 23 ) 
+  [ 25 ]    [b_LeftThumb1                   ]      ( 12 ) 
+  [ 26 ]    [b_LeftThumb2                   ]      ( 25 ) 
+  [ 27 ]    [b_LeftThumb3                   ]      ( 26 ) 
+  [ 28 ]    [b_LeftWeapon                   ]      ( 12 ) 
+  [ 29 ]    [b_LeftShoulderPad              ]      (  7 ) 
+  [ 30 ]    [b_RightClav                    ]      (  4 ) 
+  [ 31 ]    [b_RightArm                     ]      ( 30 ) 
+  [ 32 ]    [b_RightArmRoll                 ]      ( 31 ) 
+  [ 33 ]    [b_RightForeArm                 ]      ( 31 ) 
+  [ 34 ]    [b_RightForeArmRoll             ]      ( 33 ) 
+  [ 35 ]    [b_RightHand                    ]      ( 33 ) 
+  [ 36 ]    [b_RightIndex1                  ]      ( 35 ) 
+  [ 37 ]    [b_RightIndex2                  ]      ( 36 ) 
+  [ 38 ]    [b_RightIndex3                  ]      ( 37 ) 
+  [ 39 ]    [b_RightMiddle1                 ]      ( 35 ) 
+  [ 40 ]    [b_RightMiddle2                 ]      ( 39 ) 
+  [ 41 ]    [b_RightMiddle3                 ]      ( 40 ) 
+  [ 42 ]    [b_RightPinky1                  ]      ( 35 ) 
+  [ 43 ]    [b_RightPinky2                  ]      ( 42 ) 
+  [ 44 ]    [b_RightPinky3                  ]      ( 43 ) 
+  [ 45 ]    [b_RightRing1                   ]      ( 35 ) 
+  [ 46 ]    [b_RightRing2                   ]      ( 45 ) 
+  [ 47 ]    [b_RightRing3                   ]      ( 46 ) 
+  [ 48 ]    [b_RightThumb1                  ]      ( 35 ) 
+  [ 49 ]    [b_RightThumb2                  ]      ( 48 ) 
+  [ 50 ]    [b_RightThumb3                  ]      ( 49 ) 
+  [ 51 ]    [b_RightWeapon                  ]      ( 35 ) 
+  [ 52 ]    [b_RightShoulderPad             ]      ( 30 ) 
+  [ 53 ]    [b_LeftLegUpper                 ]      (  1 ) 
+  [ 54 ]    [b_LeftLeg                      ]      ( 53 ) 
+  [ 55 ]    [b_LeftAnkle                    ]      ( 54 ) 
+  [ 56 ]    [b_LeftToe                      ]      ( 55 ) 
+  [ 57 ]    [b_LeftLegUpperRoll             ]      ( 53 ) 
+  [ 58 ]    [b_RightLegUpper                ]      (  1 ) 
+  [ 59 ]    [b_RightLeg                     ]      ( 58 ) 
+  [ 60 ]    [b_RightAnkle                   ]      ( 59 ) 
+  [ 61 ]    [b_RightToe                     ]      ( 60 ) 
+  [ 62 ]    [b_RightLegUpperRoll            ]      ( 58 ) 
+  [ 63 ]    [b_IK_Foot_Root                 ]      (  0 ) 
+  [ 64 ]    [b_IK_Foot_L                    ]      ( 63 ) 
+  [ 65 ]    [b_IK_Foot_R                    ]      ( 63 ) 
+  [ 66 ]    [b_IK_Hand_Root                 ]      (  0 ) 
+  [ 67 ]    [b_IK_Gun                       ]      ( 66 ) 
+  [ 68 ]    [b_IK_Hand_L                    ]      ( 67 ) 
+  [ 69 ]    [b_IK_Hand_R                    ]      ( 67 ) 
+ 
+
